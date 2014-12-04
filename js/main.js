@@ -1,3 +1,5 @@
+/*
+*/
 $(document).ready(function ($) {
   
     // Sidebar Toggle
@@ -289,3 +291,5 @@ function clearedForm() {
 		this.reset();
 	})
 }
+
+
