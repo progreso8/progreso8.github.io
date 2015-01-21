@@ -335,7 +335,6 @@ textarea, input { outline: none; }
 .down-tab{
 	width:100%;
 	display:block;
-	background:url(../images/bg-tab.png) no-repeat center;
 	height:34px;
 	color:#fff;
 	font-family:"PT Sans", sans-serif;
@@ -608,7 +607,6 @@ textarea, input { outline: none; }
 .end_page{
 	width:100%;
 	display:block;
-	background:url(../images/bg-end-beer.png) no-repeat bottom center;
 	height:104px;
 	color:#fff;
 	font-family:"PT Sans", sans-serif;
